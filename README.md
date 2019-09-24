@@ -4,9 +4,9 @@ Gulo Solutions browser support and browser testing guidelines
 ## Browsers, Resolutions and Platforms (by importance)
 
 **Browsers**
-We support all browser version for mobile and desktop that cover developers "Supported releases" guidelines.
+We support all major browsers for mobile and desktop. The browser versions are covered by the developer "Supported releases" guidelines.
 
-1. Chrome
+1. Chrome - Always up-to-date, [see latest version](https://en.wikipedia.org/wiki/Google_Chrome_version_history#Notes)
 1. Safari - See [Current supported releases](https://en.wikipedia.org/wiki/Safari_version_history#Version_compatibility)
 1. IE - See [Current supported releases](https://en.wikipedia.org/wiki/Internet_Explorer_version_history#OS_compatibility)
 1. Firefox - See [Current supported releases](https://en.wikipedia.org/wiki/Firefox_version_history#Current_and_future_releases)
