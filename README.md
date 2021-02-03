@@ -16,8 +16,9 @@ NOTE: Internet Explorer/IE 11 is not supported.
 For reference: [usage share of web browsers](https://en.wikipedia.org/wiki/Usage_share_of_web_browsers)
 
 **Resolutions**
-Responsive websites built by Gulo should appear correctly in most, if not all, resolutions. However, the following resolutions (based on most common global usage) are specifically tested:
+Responsive websites built by Gulo should appear correctly in most, if not all, resolutions. However, the following resolutions [based on screen resolution market share](https://gs.statcounter.com/screen-resolution-stats/) are specifically tested:
 
+1. 360x640 (mobile)
 1. 375x812 (mobile)
 1. 768x1024 (tablet)
 1. 1366x768
