@@ -4,6 +4,7 @@ Gulo Solutions browser support and browser testing guidelines
 ## Browsers, Resolutions and Platforms (by importance)
 
 **Browsers**
+
 We support all major browsers for mobile and desktop. The browser versions are covered by the guidelines below:
 
 1. Chrome - 70 or above, [See releases](https://en.wikipedia.org/wiki/Google_Chrome_version_history).
@@ -15,7 +16,10 @@ We support all major browsers for mobile and desktop. The browser versions are c
 
 For reference: [usage share of web browsers](https://en.wikipedia.org/wiki/Usage_share_of_web_browsers)
 
+- - - -
+
 **Resolutions**
+
 Responsive websites built by Gulo should appear correctly in most, if not all, resolutions. However, the following resolutions [based on screen resolution market share](https://gs.statcounter.com/screen-resolution-stats/) are specifically tested:
 
 1. 360x640 (mobile)
@@ -25,12 +29,14 @@ Responsive websites built by Gulo should appear correctly in most, if not all, r
 1. 1440x900
 1. 1920x1080
 
+- - - -
+
 **Platforms**
 
-MOBILE
+**Mobile**
  * iOS 13 or above
  * Android 10 or above
 
-DESKTOP
+**Desktop**
  * Mac OS 10.13 or above
  * Windows 7 or above
