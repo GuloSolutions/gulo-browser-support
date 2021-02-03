@@ -26,9 +26,11 @@ Responsive websites built by Gulo should appear correctly in most, if not all, r
 1. 1920x1080
 
 **Platforms**
-* Mobile
-  * iOS 13 or above
-  * Android 10 or above
-* Desktop
-  * Mac OS 10.13 or above
-  * Windows 7 or above
+
+MOBILE
+ * iOS 13 or above
+ * Android 10 or above
+
+DESKTOP
+ * Mac OS 10.13 or above
+ * Windows 7 or above
