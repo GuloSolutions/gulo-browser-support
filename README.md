@@ -1,7 +1,7 @@
 # Gulo Browser Support
 Gulo Solutions browser support and browser testing guidelines
 
-## Browsers, Resolutions and Platforms (by importance)
+### Browsers, Resolutions and Platforms (by importance)
 
 **Browsers**
 
@@ -12,7 +12,7 @@ We support all major browsers for mobile and desktop. The browser versions are c
 1. Edge - 45/88 or above, [See releases](https://en.wikipedia.org/wiki/Internet_Explorer_version_history#OS_compatibility).
 1. Firefox - 78 or above, [See releases](https://en.wikipedia.org/wiki/Firefox_version_history#Current_and_future_releases).
 
-**NOTE:** Internet Explorer/IE 11 is not supported.
+**Note:** Internet Explorer/IE 11 is not supported.
 
 For reference: [usage share of web browsers](https://en.wikipedia.org/wiki/Usage_share_of_web_browsers)
 
