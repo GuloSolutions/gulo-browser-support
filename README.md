@@ -34,9 +34,9 @@ Responsive websites built by Gulo should appear correctly in most, if not all, r
 **Platforms**
 
 **Mobile**
- * iOS 13 or above
+ * iOS 15 or above
  * Android 10 or above
 
 **Desktop**
- * Mac OS 10.13 or above
- * Windows 7 or above
+ * Mac OS 10.15 or above
+ * Windows 10 or above
