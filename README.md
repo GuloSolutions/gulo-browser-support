@@ -7,12 +7,12 @@ Gulo Solutions browser support and browser testing guidelines
 
 We support all major browsers ([based on usage share of web browsers](https://en.wikipedia.org/wiki/Usage_share_of_web_browsers)) for mobile and desktop. Specific browsers and versions are covered below:
 
-1. Chrome - 70 or above, [See releases](https://en.wikipedia.org/wiki/Google_Chrome_version_history).
-1. Safari - 13 or above, [See releases](https://en.wikipedia.org/wiki/Safari_version_history#Version_compatibility).
-1. Edge - 45/88 or above, [See releases](https://en.wikipedia.org/wiki/Internet_Explorer_version_history#OS_compatibility).
-1. Firefox - 78 or above, [See releases](https://en.wikipedia.org/wiki/Firefox_version_history#Current_and_future_releases).
+1. Chrome - 110 or above, [See releases](https://en.wikipedia.org/wiki/Google_Chrome_version_history).
+1. Safari - 16 or above, [See releases](https://en.wikipedia.org/wiki/Safari_version_history#Version_compatibility).
+1. Edge - 111 or above, [See releases](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel).
+1. Firefox - 109 or above, [See releases](https://en.wikipedia.org/wiki/Firefox_version_history#Current_and_future_releases).
 
-**Note:** Internet Explorer/IE 11 is not supported.
+**Note:** Internet Explorer/IE is not supported.
 
 For reference: 
 
